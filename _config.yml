@@ -1,5 +1,5 @@
-name: Step by Jin
-description: What i am thinking and acting,
+name: Jin
+description: 배우는 사람
 meta_description: "Step by Jin : What i am thinking and acting"
 
 aboutPage: true
@@ -17,8 +17,8 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+author:         'JIN'
+authorTwitter:  'stepbyjin'
 
 permalink:       /:year/:title/
 
