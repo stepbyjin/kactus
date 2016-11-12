@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+계속 배우며 나아가는 삶.
 
 {% include footer.html %}
